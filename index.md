@@ -3,13 +3,12 @@ layout: default
 title: The Employment Learning Community - Improving Employment Systems and Services for Individuals with IDD
 ---
 
-<p><a href="application.html" class="button">application</a></p>
-
-The Employment Learning Community (ELC) will assist states in improving systems and services to increase inclusive, competitive employment for individuals with intellectual and developmental disabilities (IDD). The ELC has three key components:
-
 <div class="panel radius">
   <p><strong><a href="application.html">Apply for the Employment Learning Community - State Consortium Application</a></strong></p>
 </div>
+The Employment Learning Community (ELC) will assist states in improving systems and services to increase inclusive, competitive employment for individuals with intellectual and developmental disabilities (IDD). The ELC has three key components:
+
+
 
 1. A Delphi panel will identify issues and emerging and promising practices that will inform the work of the ELC.
 2. Three to five communities of practice will be convened annually. Members will engage in time-limited but intensive work on issues that will support their state-level systems-change efforts, and lead to the development of products that can be used by other states.
