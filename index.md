@@ -2,6 +2,9 @@
 layout: default
 title: The Employment Learning Community - Improving Employment Systems and Services for Individuals with IDD
 ---
+
+<p><a href="application.html" class="button">application</a></p>
+
 The Employment Learning Community (ELC) will assist states in improving systems and services to increase inclusive, competitive employment for individuals with intellectual and developmental disabilities (IDD). The ELC has three key components:
 
 <div class="panel radius">
@@ -21,9 +24,8 @@ The panel will identify and consider issues and practices that emerge over the l
 ##Communities of Practice
 The ELC will convene two communities of practice in 2013, with three to five convened annually in subsequent years. The communities of practice will provide opportunities for peer-to-peer learning and technical assistance. In year one, the topics will be driven by the work of the Delphi panel, while in subsequent years these priorities will be supplemented by the experiences of the state consortiums.
 
-The communities of practice will include a maximum of 15 members who have a strong interest in the topic and investment in developing a body of work that will inform their efforts advancing integrated employment
-￼￼￼
-in their state and others. They will share methods, tools, practices, and stories that can expand effective employment policies and practices.
+The communities of practice will include a maximum of 15 members who have a strong interest in the topic and investment in developing a body of work that will inform their efforts advancing integrated employment in their state and others. They will share methods, tools, practices, and stories that can expand effective employment policies and practices. 
+
 Community of practice members will be drawn from the state-level systems-change states (see below), as well as from other national employment systems-change initiatives.
 
 ##State-Level Systems Change
@@ -31,4 +33,4 @@ Five to ten states will participate in the state-level systems change component 
 
 Additionally, the ELC will provide online training to support the work of the consortiums. Quarterly webinars will address topics that emerge from the Delphi panel, the communities of practice, and the consortiums themselves.
 
-The application to participate in the state-level systems-change component of the project is available as of May 2013, and work with states will begin in 2013.
+The application to participate in the state-level systems-change component of the project is available as of May 2013, and work with states will begin in June 2013.
