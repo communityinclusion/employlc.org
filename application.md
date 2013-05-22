@@ -24,6 +24,8 @@ Each state will have an ELC liaison who will provide technical assistance to the
 ##Application Process
 States are required to complete an online application. 
 
+<div class="panel"><a href="img/State Application Form Worksheet.docx">Download this worksheet to guide you though what you need for the application.</a></div>
+
   <p><strong><a class="button" href="http://bit.ly/10RWGe2">Begin the Application</a></strong></p>
 
 If you need assistance completing the online application, please contact Cindy Thomas.
